@@ -1,0 +1,27 @@
+{
+  "title": "Mediterranean pine forest decline: A matter of root-associated microbiota and climate change",
+  "authors": [
+    "Ana V. Lasa",
+    "Antonio José Fernández-González",
+    "Pablo J. Villadas",
+    "Jesús Mercado-Blanco",
+    "Antonio J. Pérez-Luque",
+    "Manuel Fernández-López"
+  ],
+  "year": 2024,
+  "journal": "Science of The Total Environment",
+  "volume": "926",
+  "article_number": "171858",
+  "doi": "10.1016/j.scitotenv.2024.171858",
+  "region_object": "伊比利亚半岛东南部地中海区域；欧洲赤松 Pinus sylvestris",
+  "question": "衰退与无明显症状松树的根际和根内微生物群落是否不同？",
+  "method": "摘要报告使用宏条形码分析根际/根内细菌与真菌群落，并比较群落及网络特征。",
+  "reported_results": "作者资料库所附论文摘要报告：部分根际/根内微生物群落组成随健康状态不同；症状树中相关植原体滴度较高；衰退树根内微生物网络复杂度较低、模块化更高。",
+  "boundary": "作者摘要明确指出群落变化可能是衰退的原因或结果；不能由该观察比较证明单向因果，也不能作为梭梭退化的直接证据。",
+  "verification_level": "作者公开仓库 README 与 references.bib 的题录和摘要已读取；未读取期刊全文或独立核对出版者记录。",
+  "source_urls": [
+    "https://github.com/anitalasa/Psylvestris_DataPaper",
+    "https://raw.githubusercontent.com/anitalasa/Psylvestris_DataPaper/main/references.bib"
+  ],
+  "sampling_caution": "仓库 index.qmd 中1056为多个树种/分项目的总样本描述，不将其写作该论文的样本量。"
+}
