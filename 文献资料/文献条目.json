@@ -1,0 +1,990 @@
+[
+  {
+    "id": "A11",
+    "group": "一、河西走廊梭梭林直接研究",
+    "short_title": "降水、土壤水分和结皮的影响",
+    "title": "降水、土壤水分和结皮对人工梭梭(Haloxylon ammodendron)林的影响",
+    "authors": [
+      "马全林",
+      "王继和",
+      "朱淑娟"
+    ],
+    "year": 2007,
+    "journal": "生态学报",
+    "volume": "27",
+    "issue": "12",
+    "pages": "5057–5067",
+    "doi": "",
+    "where": "石羊河下游沙井子；不同立地与林龄人工梭梭林",
+    "question": "降水、水分及结皮如何影响人工梭梭种群和群落？",
+    "metrics": "土壤含水率、梭梭生长/退化状态、草本物种组成与生物产量。",
+    "method": "区域调查与定位观测；比较不同立地、林龄及结皮条件。",
+    "result": "论文报告：风沙土含水率<0.824%时死亡，0.824%–1.30%时退化，>1.30%时生长正常；结皮既保护地表，也可能限制入渗。",
+    "limit": "这些数值来自特定风沙土与观测条件，不能当作跨地区统一阈值；破坏结皮的水分响应不等于综合生态效益提高。",
+    "read_level": "期刊摘要",
+    "primary_url": "https://www.ecologica.cn/stxb/article/abstract/1000-0933200712-2057-11",
+    "metadata_url": "https://www.ecologica.cn/stxb/article/abstract/1000-0933200712-2057-11",
+    "abstract_index": "https://openalex.org/W987617542",
+    "online_date": null,
+    "printed_date": null
+  },
+  {
+    "id": "A01",
+    "group": "一、河西走廊梭梭林直接研究",
+    "short_title": "长期造林后的土壤和植被变化",
+    "title": "Long-Term Effects of Xerophytic Shrub Haloxylon ammodendron Plantations on Soil Properties and Vegetation Dynamics in Northwest China",
+    "authors": [
+      "Baoli Fan",
+      "Aiping Zhang",
+      "Yi Yang",
+      "Quanlin Ma",
+      "Xuemin Li",
+      "Changming Zhao"
+    ],
+    "year": 2016,
+    "journal": "PLOS ONE",
+    "volume": "11",
+    "issue": "12",
+    "pages": "e0168000",
+    "doi": "10.1371/journal.pone.0168000",
+    "where": "甘肃民勤；10、20、30、40、50年梭梭人工林",
+    "question": "梭梭造林后，土壤和草本群落如何长期变化？",
+    "metrics": "0–5、5–20 cm土壤有机碳、养分、质地、结皮厚度和覆盖；草本组成与覆盖。",
+    "method": "林龄序列调查；土壤测定与典范对应分析（CCA）。",
+    "result": "造林改善表土性质和结皮，草本覆盖在30年林分明显增加；40–50年林分仍有土壤恢复效应，但恢复总体缓慢。",
+    "limit": "重点是土壤与林下植被；不能由其结果认定所有老龄梭梭个体均健康，也不是同一林分连续50年监测。",
+    "read_level": "数据库摘要",
+    "primary_url": "https://dx.plos.org/10.1371/journal.pone.0168000",
+    "metadata_url": "https://api.crossref.org/works/10.1371/journal.pone.0168000",
+    "abstract_index": "https://openalex.org/W2565872819",
+    "online_date": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          16
+        ]
+      ]
+    },
+    "printed_date": null
+  },
+  {
+    "id": "A02",
+    "group": "一、河西走廊梭梭林直接研究",
+    "short_title": "人工梭梭林空间格局与更新",
+    "title": "Spatial Analysis of a Haloxylon Ammodendron Plantation in an Oasis-Desert Ecotone in the Hexi Corridor, Northwestern China",
+    "authors": [
+      "Ying Zheng",
+      "Wenzhi Zhao",
+      "Gefei Zhang"
+    ],
+    "year": 2017,
+    "journal": "Forests",
+    "volume": "8",
+    "issue": "6",
+    "pages": "200",
+    "doi": "10.3390/f8060200",
+    "where": "张掖临泽、黑河中游；5个发展阶段人工林",
+    "question": "不同发展阶段的空间格局和大小级关系，能否解释竞争与更新？",
+    "metrics": "坐标、株高、冠幅、基径、枯枝比例；幼苗/幼树/成株及空间关联。",
+    "method": "空间代时间；正文记述共5个50×60 m样地；单变量L与双变量L12函数。",
+    "result": "格局随尺度和阶段变化；作者认为幼龄阶段竞争激烈，>40年阶段更新受限、水分胁迫增强。",
+    "limit": "正文为共5个样地，摘要却写成每阶段5个，存在口径差异；空间关联支持机制推断，不能直接证明因果或未来死亡概率。",
+    "read_level": "全文核心段",
+    "primary_url": "https://www.mdpi.com/1999-4907/8/6/200",
+    "metadata_url": "https://api.crossref.org/works/10.3390/f8060200",
+    "abstract_index": "https://openalex.org/W2623799153",
+    "online_date": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          8
+        ]
+      ]
+    },
+    "printed_date": null
+  },
+  {
+    "id": "A04",
+    "group": "一、河西走廊梭梭林直接研究",
+    "short_title": "雨养梭梭对土壤水分变化的响应",
+    "title": "荒漠绿洲过渡带不同年限雨养梭梭(Haloxylon ammodendron)对土壤水分变化的响应",
+    "authors": [
+      "王国华",
+      "陈蕴琳",
+      "缑倩倩"
+    ],
+    "year": 2021,
+    "journal": "生态学报",
+    "volume": "41",
+    "issue": "14",
+    "pages": "5658–5668",
+    "doi": "10.5846/stxb202007151859",
+    "where": "河西走廊荒漠—绿洲过渡带；5、10、20、30、40年林分",
+    "question": "土壤变干后，梭梭如何通过生理与形态调整维持生存？",
+    "metrics": "土壤水分；可溶性糖/蛋白、MDA、叶绿素、根系活力；生物量与枯落比例。",
+    "method": "不同林龄调查；结合生理生化测定与个体形态比较。",
+    "result": "30–40年林分深层含水率由约3%–4%降至1%–2%，渗透调节物质和叶绿素下降，MDA升高；老林通过减少地上生物量降低耗水。",
+    "limit": "原文将1%–2%表述为可能的临界吸收范围；须保留土层、单位与地点条件，“假死”也不能直接当作永久死亡。",
+    "read_level": "期刊摘要",
+    "primary_url": "https://www.ecologica.cn/stxb/article/abstract/stxb202007151859",
+    "metadata_url": "https://api.crossref.org/works/10.5846/stxb202007151859",
+    "abstract_index": "https://openalex.org/W3199676576",
+    "online_date": null,
+    "printed_date": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    }
+  },
+  {
+    "id": "A05",
+    "group": "一、河西走廊梭梭林直接研究",
+    "short_title": "不同林龄下水、热、盐的变化",
+    "title": "Changes in Soil Moisture, Temperature, and Salt in Rainfed Haloxylon ammodendron Forests of Different Ages across a Typical Desert–Oasis Ecotone",
+    "authors": [
+      "Qianqian Gou",
+      "Changsheng Shen",
+      "Guohua Wang"
+    ],
+    "year": 2022,
+    "journal": "Water",
+    "volume": "14",
+    "issue": "17",
+    "pages": "2653",
+    "doi": "10.3390/w14172653",
+    "where": "张掖临泽；20、30、50年雨养梭梭林",
+    "question": "冻融期土壤水热盐如何耦合，是否随林龄改变？",
+    "metrics": "0–200 cm分层含水量、温度、电导率及土壤质地。",
+    "method": "2018–2019年冻融相关时段；5层传感器每30 min记录，配合土壤物性分析。",
+    "result": "林龄增加时，浅层水分下降且盐分表聚；120–200 cm的水分和盐分增加。温度滞后及深层黏土层影响迁移。",
+    "limit": "水热盐过程研究，未直接检验死亡预测；深层黏土层差异可能与年龄效应交织，不能简单解释成林龄单因素作用。",
+    "read_level": "全文核心段",
+    "primary_url": "https://www.mdpi.com/2073-4441/14/17/2653",
+    "metadata_url": "https://api.crossref.org/works/10.3390/w14172653",
+    "abstract_index": "https://openalex.org/W4293728588",
+    "online_date": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          28
+        ]
+      ]
+    },
+    "printed_date": null
+  },
+  {
+    "id": "A06",
+    "group": "一、河西走廊梭梭林直接研究",
+    "short_title": "不同林龄梭梭的液流动态",
+    "title": "Study on the Dynamics of Stem Sap Flow in Minqin Wind and Sand Control Haloxylon ammodendron Forest, China",
+    "authors": [
+      "Yuquan Qiang",
+      "Xianying Xu",
+      "Jinchun Zhang"
+    ],
+    "year": 2023,
+    "journal": "Sustainability",
+    "volume": "15",
+    "issue": "1",
+    "pages": "609",
+    "doi": "10.3390/su15010609",
+    "where": "民勤治沙试验站附近；5、10、15、20年林分",
+    "question": "年龄和径级如何影响梭梭耗水的日变化与季节变化？",
+    "metrics": "液流速率、液流质量、基径和土壤/气象条件。",
+    "method": "TDP热扩散液流监测；2020年5–10月生长季比较林龄与径级。",
+    "result": "液流随年龄先升后降，15年组高而20年组明显降低；较大径级启动更早、峰值更高，日间与盛夏耗水较强。",
+    "limit": "液流下降可能同时反映大小、生长与水分状态；少数监测植株不代表区域保存率。卷期年2023，在线发表于2022年。",
+    "read_level": "全文核心段",
+    "primary_url": "https://www.mdpi.com/2071-1050/15/1/609",
+    "metadata_url": "https://api.crossref.org/works/10.3390/su15010609",
+    "abstract_index": "https://openalex.org/W4313409556",
+    "online_date": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          29
+        ]
+      ]
+    },
+    "printed_date": null
+  },
+  {
+    "id": "A07",
+    "group": "一、河西走廊梭梭林直接研究",
+    "short_title": "以同化枝指标估算林分耗水",
+    "title": "Estimation of Water Consumption of Haloxylon ammodendron Sand-Fixing Forest in Minqin Oasis-Desert Ecotone of China Based on Leaf Index, China",
+    "authors": [
+      "Yuquan Qiang",
+      "Mingjun Zhang",
+      "Yu Zhang",
+      "Jinchun Zhang",
+      "Peng Zhao",
+      "Guiquan Fu"
+    ],
+    "year": 2024,
+    "journal": "Forests",
+    "volume": "15",
+    "issue": "1",
+    "pages": "52",
+    "doi": "10.3390/f15010052",
+    "where": "甘肃民勤；5、10、15、20年人工梭梭林",
+    "question": "能否用同化枝面积/干重，把单株液流扩展到林分耗水？",
+    "metrics": "同化枝生长、表面积、干重、单株耗水与林分密度。",
+    "method": "2021–2022年调查；各林龄3个30×30 m样方，选择标准树液流监测并建立拟合关系。",
+    "result": "同化枝生长与耗水同步，7月较强；表面积、干重与耗水呈线性关系；林分耗水扩展受密度和分枝结构影响。",
+    "limit": "属于耗水估算，未验证未来衰退；模型外推依赖密度和枝量标定。卷期年2024，在线发表于2023年。",
+    "read_level": "全文核心段",
+    "primary_url": "https://www.mdpi.com/1999-4907/15/1/52",
+    "metadata_url": "https://api.crossref.org/works/10.3390/f15010052",
+    "abstract_index": "https://openalex.org/W4390269107",
+    "online_date": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          27
+        ]
+      ]
+    },
+    "printed_date": null
+  },
+  {
+    "id": "A08",
+    "group": "一、河西走廊梭梭林直接研究",
+    "short_title": "固沙林碳储量、速率及潜力",
+    "title": "Carbon sequestration of sand-fixing plantation of Haloxylon ammodendron in Shiyang River Basin: Storage, rate and potential",
+    "authors": [
+      "Quanlin Ma",
+      "Xinyou Wang",
+      "Fang Chen",
+      "Linyuan Wei",
+      "Dekui Zhang",
+      "Hujia Jin"
+    ],
+    "year": 2021,
+    "journal": "Global Ecology and Conservation",
+    "volume": "28",
+    "issue": "",
+    "pages": "e01607",
+    "doi": "10.1016/j.gecco.2021.e01607",
+    "where": "石羊河下游；3、10、25、35年梭梭人工林",
+    "question": "造林年限如何改变植被—土壤碳储量及固碳效率？",
+    "metrics": "植被生物量、土壤有机碳密度、生态系统碳储量与固碳速率。",
+    "method": "空间代时间；实测碳库比较，另以CBP估算长期碳效益。",
+    "result": "生物量和生态系统碳储量随林龄先升后降；10年组固碳速率较高，土壤有机碳密度随林龄增加。",
+    "limit": "实测仅4个年龄阶段；0–100年结果含模型外推，不能当作百年现场监测或已观测死亡过程。",
+    "read_level": "数据库摘要",
+    "primary_url": "https://linkinghub.elsevier.com/retrieve/pii/S2351989421001578",
+    "metadata_url": "https://api.crossref.org/works/10.1016/j.gecco.2021.e01607",
+    "abstract_index": "https://openalex.org/W3158833228",
+    "online_date": null,
+    "printed_date": {
+      "date-parts": [
+        [
+          2021,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "id": "A09",
+    "group": "一、河西走廊梭梭林直接研究",
+    "short_title": "人工林建植对土壤动物群落的影响",
+    "title": "Impacts of Haloxylon ammodendron Plantation Establishment on Arachnid and Soil Mesofauna Communities in a Desert–Oasis Ecotone",
+    "authors": [
+      "Ziting Wang",
+      "Xiuzhen Zhao",
+      "Yongzhen Wang",
+      "Quanlin Ma",
+      "Yongzhong Luo",
+      "Xin Luo",
+      "Xiaogan Zhou",
+      "Fang Li",
+      "Jiliang Liu"
+    ],
+    "year": 2026,
+    "journal": "Diversity",
+    "volume": "18",
+    "issue": "2",
+    "pages": "103",
+    "doi": "10.3390/d18020103",
+    "where": "张掖临泽；幼龄林、老龄林与天然荒漠对照",
+    "question": "造林与林龄如何改变蛛形动物、螨和弹尾类群落及营养关系？",
+    "metrics": "类群丰度/丰富度、体型组、捕食者/食物比例；覆盖、质地与可溶盐。",
+    "method": "每生境8个样点、每点3样地、每样地5陷阱；2018年5月与9月调查；2026年发表。",
+    "result": "造林提高多类土壤动物的丰度和丰富度；大体型蛛形动物在老林下降，小体型组增加，食物网结构随林龄重组。",
+    "limit": "这是生态效应与生物多样性结果，不是梭梭存活率研究；发表年份不等于调查年份。",
+    "read_level": "全文核心段",
+    "primary_url": "https://www.mdpi.com/1424-2818/18/2/103",
+    "metadata_url": "https://api.crossref.org/works/10.3390/d18020103",
+    "abstract_index": "https://openalex.org/W7128169315",
+    "online_date": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          6
+        ]
+      ]
+    },
+    "printed_date": null
+  },
+  {
+    "id": "A03",
+    "group": "二、其他国内地区及样区待详核的梭梭研究",
+    "short_title": "不同年龄梭梭的水分来源",
+    "title": "Varying water utilization of Haloxylon ammodendron\n plantations in a desert-oasis ecotone",
+    "authors": [
+      "Hai Zhou",
+      "Wenzhi Zhao",
+      "Gefei Zhang"
+    ],
+    "year": 2017,
+    "journal": "Hydrological Processes",
+    "volume": "31",
+    "issue": "4",
+    "pages": "825-835",
+    "doi": "10.1002/hyp.11060",
+    "where": "中国荒漠—绿洲过渡带；5、10、20、40年人工林（精确样区未详核）",
+    "question": "不同年龄、季节的梭梭利用什么水源？",
+    "metrics": "死亡、枝条大小、根深；降水/土壤/地下水与茎水δ18O。",
+    "method": "年龄序列及季节比较；稳定氧同位素识别水源。",
+    "result": "5年组主要用浅层土壤水，10年组随季节切换；20、40年组主要利用地下水，表现出水源利用分化。",
+    "limit": "本次摘要未明确地名，不据此统计区域覆盖；地下水可达性因地而异。卷期年2017，在线发表于2016年。",
+    "read_level": "数据库摘要",
+    "primary_url": "http://doi.wiley.com/10.1002/hyp.11060",
+    "metadata_url": "https://api.crossref.org/works/10.1002/hyp.11060",
+    "abstract_index": "https://openalex.org/W2533013303",
+    "online_date": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          4
+        ]
+      ]
+    },
+    "printed_date": {
+      "date-parts": [
+        [
+          2017,
+          2,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "id": "B01",
+    "group": "二、其他国内地区及样区待详核的梭梭研究",
+    "short_title": "梭梭人工林下的土壤干化过程",
+    "title": "The Process of Soil Desiccation under Haloxylon ammodendron Plantations: A Case Study of the Alxa Legue Desert, China",
+    "authors": [
+      "Dongmeng Zhou",
+      "Jianhua Si",
+      "Xiaohui He",
+      "Bing Jia",
+      "Chunyan Zhao",
+      "Chunlin Wang",
+      "Jie Qin",
+      "Xinglin Zhu"
+    ],
+    "year": 2022,
+    "journal": "Plants",
+    "volume": "11",
+    "issue": "3",
+    "pages": "235",
+    "doi": "10.3390/plants11030235",
+    "where": "内蒙古阿拉善；5、11、22、34、46年林分及荒地对照",
+    "question": "不同林龄下，土壤干层何时出现、向多深发展？",
+    "metrics": "0–400 cm水分；土壤干化指数SDI、干层厚度DSLT和干层水分。",
+    "method": "空间代时间；2021年分层采样、烘干测水及水分特征曲线拟合。",
+    "result": "浅层先耗水，约10年后深层耗水加速；22年后深层干化明显，46年组干层水分约0.034 cm³/cm³。",
+    "limit": "土壤干层指标不等于植株死亡诊断；样区地下水80–120 m，与能利用浅地下水的林分条件不同。",
+    "read_level": "全文核心段",
+    "primary_url": "https://www.mdpi.com/2223-7747/11/3/235",
+    "metadata_url": "https://api.crossref.org/works/10.3390/plants11030235",
+    "abstract_index": "https://openalex.org/W4206156730",
+    "online_date": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          18
+        ]
+      ]
+    },
+    "printed_date": null
+  },
+  {
+    "id": "B02",
+    "group": "二、其他国内地区及样区待详核的梭梭研究",
+    "short_title": "叶绿素与光合特征的林龄变化",
+    "title": "Leaf chlorophyll parameters and photosynthetic characteristic variations with stand age in a typical desert species (Haloxylon ammodendron)",
+    "authors": [
+      "Xiao-hui He",
+      "Jian-hua Si",
+      "Dong-meng Zhou",
+      "Chun-lin Wang",
+      "Chun-yan Zhao",
+      "Bing Jia",
+      "Jie Qin",
+      "Xing-lin Zhu"
+    ],
+    "year": 2022,
+    "journal": "Frontiers in Plant Science",
+    "volume": "13",
+    "issue": "",
+    "pages": "967849",
+    "doi": "10.3389/fpls.2022.967849",
+    "where": "阿拉善右旗雅布赖；5、11、22、34、46年人工林",
+    "question": "光合能力是否随林龄持续下降，叶绿素能否替代光合测量？",
+    "metrics": "叶绿素；最大净光合速率Pnmax、最大光能利用效率及光响应参数。",
+    "method": "空间代时间；每林龄选择健康、长势良好的植株，以Li-6400测光响应并拟合模型。",
+    "result": "叶绿素、Pnmax和光能利用效率呈V形；22年组低，较老组回升并趋稳；叶绿素与光合能力关系在老龄组不稳定。",
+    "limit": "按健康植株选样，不能代表整个林分的衰退比例；叶绿素不能无条件替代实际光合能力。",
+    "read_level": "全文核心段",
+    "primary_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.967849/full",
+    "metadata_url": "https://api.crossref.org/works/10.3389/fpls.2022.967849",
+    "abstract_index": "https://openalex.org/W4302305225",
+    "online_date": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          6
+        ]
+      ]
+    },
+    "printed_date": null
+  },
+  {
+    "id": "B03",
+    "group": "二、其他国内地区及样区待详核的梭梭研究",
+    "short_title": "不同林龄的空间结构及自然更新",
+    "title": "Spatial Distribution and Structural Characteristics for Haloxylon ammodendron Plantation on the Southwestern Edge of the Gurbantünggüt Desert",
+    "authors": [
+      "Chunwu Song",
+      "Congjuan Li",
+      "Ümüt Halik",
+      "Xinwen Xu",
+      "Jiaqiang Lei",
+      "Zhibin Zhou",
+      "Jinglong Fan"
+    ],
+    "year": 2021,
+    "journal": "Forests",
+    "volume": "12",
+    "issue": "5",
+    "pages": "633",
+    "doi": "10.3390/f12050633",
+    "where": "新疆古尔班通古特沙漠西南缘；15、22、36年人工林",
+    "question": "年龄结构、空间关系和更新层能否反映人工林稳定性？",
+    "metrics": "密度、基径、株高、死亡木比例及幼苗—幼树—成株结构。",
+    "method": "3个年龄阶段比较；种群结构和空间点格局分析。",
+    "result": "36年林分死亡木比例最高，更新层缺乏后续较大个体；作者认为竞争水分与更新受阻相关，并提出疏密建议。",
+    "limit": "观察比较支持结构诊断；建议密度与疏伐效果未通过本文长期随机试验验证，不宜直接移植为河西统一标准。",
+    "read_level": "全文核心段",
+    "primary_url": "https://www.mdpi.com/1999-4907/12/5/633",
+    "metadata_url": "https://api.crossref.org/works/10.3390/f12050633",
+    "abstract_index": "https://openalex.org/W3160149720",
+    "online_date": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          17
+        ]
+      ]
+    },
+    "printed_date": null
+  },
+  {
+    "id": "B04",
+    "group": "二、其他国内地区及样区待详核的梭梭研究",
+    "short_title": "梭梭生长的土壤水分阈值",
+    "title": "Soil water threshold for the growth of Haloxylon ammodendron in the Ulan Buh desert in arid northwest China",
+    "authors": [
+      "W.B. Yang",
+      "W. Feng",
+      "Z.Q. Jia",
+      "Y.J. Zhu",
+      "J.Y. Guo"
+    ],
+    "year": 2014,
+    "journal": "South African Journal of Botany",
+    "volume": "92",
+    "issue": "",
+    "pages": "53-58",
+    "doi": "10.1016/j.sajb.2014.02.001",
+    "where": "乌兰布和沙漠；2个人工林群落与1个天然群落",
+    "question": "水分下降时，土壤水势和枝条膨压如何变化？",
+    "metrics": "风沙土含水率/水势、黎明前枝水势和零膨压点。",
+    "method": "3年试验观测；人工林为8–10年，比较土壤—植株水势响应。",
+    "result": "文中区分约2.0%的“经济水分阈值”和约1.0%的“生存水分阈值”，后者对应枝条不能恢复膨压的状态。",
+    "limit": "两种阈值含义不同；必须核对土壤类型、含水率定义和水势条件，不能与其他论文的1%–2%直接混用。",
+    "read_level": "数据库摘要",
+    "primary_url": "https://linkinghub.elsevier.com/retrieve/pii/S0254629914000295",
+    "metadata_url": "https://api.crossref.org/works/10.1016/j.sajb.2014.02.001",
+    "abstract_index": "https://openalex.org/W2015158496",
+    "online_date": null,
+    "printed_date": {
+      "date-parts": [
+        [
+          2014,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "id": "B05",
+    "group": "二、其他国内地区及样区待详核的梭梭研究",
+    "short_title": "风沙损伤与梭梭更新受限",
+    "title": "Sandstorms cause shrinkage of Haloxylon ammodendron shrubs and limit their self-renewal",
+    "authors": [
+      "Sheng-bo Shi",
+      "Dang-wei Zhou",
+      "Fang-lin Wang",
+      "Rui Shi",
+      "Tao Sun",
+      "Tian-cai Li",
+      "Jia-lin Ma",
+      "Xiang Wan",
+      "Jian-ping Ma",
+      "Jing-nian Tang"
+    ],
+    "year": 2022,
+    "journal": "Theoretical and Experimental Plant Physiology",
+    "volume": "34",
+    "issue": "2",
+    "pages": "197-214",
+    "doi": "10.1007/s40626-022-00242-4",
+    "where": "梭梭幼苗；控条件风洞试验",
+    "question": "含沙风是否比纯风更损伤同化枝和光系统？",
+    "metrics": "Fv/Fm、NPQ、恢复后的光化学效率、色素和同化枝损伤。",
+    "method": "12 m/s纯风与含沙风对比，暴露10、20、40 min；叶绿素荧光成像。",
+    "result": "含沙风降低光化学效率和非光化学淬灭能力，造成失水、萎蔫和木质化斑；该条件下≥20 min出现难恢复损伤。",
+    "limit": "提供风沙机械伤害的实验依据；幼苗、风速及暴露时长是适用条件，不能直接代表成林年死亡率。",
+    "read_level": "数据库摘要",
+    "primary_url": "https://link.springer.com/10.1007/s40626-022-00242-4",
+    "metadata_url": "https://api.crossref.org/works/10.1007/s40626-022-00242-4",
+    "abstract_index": "https://openalex.org/W4226254559",
+    "online_date": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          7
+        ]
+      ]
+    },
+    "printed_date": {
+      "date-parts": [
+        [
+          2022,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "B06",
+    "group": "二、其他国内地区及样区待详核的梭梭研究",
+    "short_title": "平茬强度对液流的影响",
+    "title": "Effects of Stumping and Meteorological Factors on Sap Flow Characteristics of Haloxylon ammodendron in Ulan Buh Desert, Northwestern China",
+    "authors": [
+      "Yingbin Ma",
+      "Yaru Huang",
+      "Jingbo Zhang",
+      "Xuting Hao",
+      "Zhiming Xin",
+      "Jian Cui",
+      "Xue Dong",
+      "Haoyi Wang",
+      "Chunxia Han",
+      "Jinlei Zhu",
+      "Qi Lu"
+    ],
+    "year": 2024,
+    "journal": "Atmosphere",
+    "volume": "15",
+    "issue": "11",
+    "pages": "1286",
+    "doi": "10.3390/atmos15111286",
+    "where": "乌兰布和沙漠；不同平茬强度梭梭",
+    "question": "平茬是否改变耗水及对气象条件的响应？",
+    "metrics": "液流速率、日累计液流、启动时间及同步气象变量。",
+    "method": "50%、75%、100%平茬与未平茬比较；PS-TDP8液流和气象同步监测。",
+    "result": "日均及累计液流为50%平茬>未平茬>75%>100%；平茬改变液流启动和气象响应。",
+    "limit": "液流变化不能单独证明林分长期复壮、保存率提高或固沙功能改善；需保留处理强度和观测期。",
+    "read_level": "期刊摘要",
+    "primary_url": "https://www.mdpi.com/2073-4433/15/11/1286",
+    "metadata_url": "https://api.crossref.org/works/10.3390/atmos15111286",
+    "abstract_index": "https://openalex.org/W4403843837",
+    "online_date": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          27
+        ]
+      ]
+    },
+    "printed_date": null
+  },
+  {
+    "id": "B07",
+    "group": "二、其他国内地区及样区待详核的梭梭研究",
+    "short_title": "长期造林的水分—碳库权衡",
+    "title": "Effects of long-term afforestation on soil water and carbon in the Alxa Plateau",
+    "authors": [
+      "Xinglin Zhu",
+      "Jianhua Si",
+      "Xiaohui He",
+      "Bing Jia",
+      "Dongmeng Zhou",
+      "Chunlin Wang",
+      "Jie Qin",
+      "Zijin Liu"
+    ],
+    "year": 2024,
+    "journal": "Frontiers in Plant Science",
+    "volume": "14",
+    "issue": "",
+    "pages": "1273108",
+    "doi": "10.3389/fpls.2023.1273108",
+    "where": "阿拉善高原；5、11、22、46年梭梭林及流沙对照",
+    "question": "造林增加碳储量时，是否同步消耗深层土壤水？",
+    "metrics": "0–300 cm含水量、水分亏缺、有机碳和无机碳储量。",
+    "method": "4个林龄与流沙地比较；分析土壤碳与深层水分关系。",
+    "result": "造林增加有机碳和无机碳储量，同时降低深层水分；较老林分水分亏缺更强，体现碳收益与水资源的权衡。",
+    "limit": "年龄序列和相关分析不能完整分解水分消耗的因果路径；碳库增加不等于所有生态功能同步改善。 本文2024年发表，期刊卷标2023。",
+    "read_level": "期刊摘要",
+    "primary_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2023.1273108/full",
+    "metadata_url": "https://api.crossref.org/works/10.3389/fpls.2023.1273108",
+    "abstract_index": "https://openalex.org/W4390745279",
+    "online_date": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          11
+        ]
+      ]
+    },
+    "printed_date": null
+  },
+  {
+    "id": "C01",
+    "group": "三、国外梭梭研究",
+    "short_title": "灌溉对梭梭幼苗早期保存与生长的影响",
+    "title": "Early survival and growth of Haloxylon ammodendron seedlings under irrigation in arid southern Tajikistan",
+    "authors": [
+      "JIEUN AHN",
+      "GAEUN KIM",
+      "HEEJAE JO",
+      "JIEUN PARK",
+      "YOUNGJIN LEE",
+      "WOO-KYUN LEE",
+      "ASIA KHAMZINA",
+      "YOWHAN SON"
+    ],
+    "year": 2025,
+    "journal": "Turkish Journal of Agriculture and Forestry",
+    "volume": "49",
+    "issue": "2",
+    "pages": "305-317",
+    "doi": "10.55730/1300-011x.3267",
+    "where": "塔吉克斯坦南部干旱区；2021年造林幼苗",
+    "question": "有限灌溉是否提高早期保存率及生长？",
+    "metrics": "保存率、苗高、根颈直径、单位面积茎体积与高径比。",
+    "method": "灌溉与不灌溉处理；2022、2023年两次调查比较。",
+    "result": "灌溉提高2022年保存率，但2023年未显示相同保存率优势；2023年苗高、根颈直径和茎体积仍明显增加。",
+    "limit": "属于幼林建植期，不是老龄林退化试验；生长提高和保存率提高是不同结局。",
+    "read_level": "数据库摘要",
+    "primary_url": "https://journals.tubitak.gov.tr/agriculture/vol49/iss2/8/",
+    "metadata_url": "https://api.crossref.org/works/10.55730/1300-011x.3267",
+    "abstract_index": "https://openalex.org/W4409740768",
+    "online_date": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          21
+        ]
+      ]
+    },
+    "printed_date": null
+  },
+  {
+    "id": "C02",
+    "group": "三、国外梭梭研究",
+    "short_title": "人工与天然梭梭的枝条水势比较",
+    "title": "Comparison of Shoot Water Potential in Plantation and Natural Forest Trees of Haloxylon ammodendron (C.A.Mey) Bunge ex Fenzl Desert Region, Mongolia",
+    "authors": [
+      "Enkhchimeg Tsedensodnom",
+      "Ser-Oddamba Byambadorj",
+      "Narantugs Dulamsuren",
+      "Khaulanbek Akhmadi",
+      "Batkhuu Nyam-Osor"
+    ],
+    "year": 2021,
+    "journal": "Advances in Engineering Research",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "doi": "10.2991/aer.k.211029.004",
+    "where": "蒙古国南戈壁Bayanzag；天然林和人工林",
+    "question": "不同大小和建植方式的梭梭水分胁迫程度是否不同？",
+    "metrics": "同化枝水势、株高、基径及建植/供水方式。",
+    "method": "天然不同大小级和人工种植个体的比较；ESTIC 2021会议论文。",
+    "result": "较小个体更易出现水分胁迫；常规供水人工植株水分状态较好，穴植供水方式表现较优。",
+    "limit": "会议论文；比较结果受大小与供水差异影响，不构成长期保存率或随机灌溉效果验证；不照搬摘要中存疑的高度分界符号。",
+    "read_level": "数据库摘要",
+    "primary_url": "https://www.atlantis-press.com/article/125962218",
+    "metadata_url": "https://api.crossref.org/works/10.2991/aer.k.211029.004",
+    "abstract_index": "https://openalex.org/W3213835206",
+    "online_date": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "printed_date": null
+  },
+  {
+    "id": "D01",
+    "group": "四、其他植物衰退与恢复研究",
+    "short_title": "老龄樟子松的干旱相关生长衰退",
+    "title": "Aging Mongolian pine plantations face high risks of drought-induced growth decline: evidence from both individual tree and forest stand measurements",
+    "authors": [
+      "Mingyong Li",
+      "Leilei Yang",
+      "Yu Cao",
+      "Dedong Wu",
+      "Guangyou Hao"
+    ],
+    "year": 2024,
+    "journal": "Journal of Forestry Research",
+    "volume": "35",
+    "issue": "1",
+    "pages": "38",
+    "doi": "10.1007/s11676-023-01677-4",
+    "where": "中国北方水分受限区；9–13年与35–52年樟子松人工林",
+    "question": "老龄人工林是否更易发生干旱相关生长下降？",
+    "metrics": "年轮宽度、NDVI、NDWI、scPDSI及边材/叶比导水率。",
+    "method": "年轮、遥感和水力指标结合，比较个体与林分尺度的年龄差异。",
+    "result": "老龄组年轮和遥感指标下降，生长与干旱指数关系更强；较低导水率提示水力限制加重。",
+    "limit": "多尺度生长与水力证据，仍不是梭梭未来死亡预测模型；针叶树年轮方法不能未经验证直接用于梭梭。",
+    "read_level": "数据库摘要",
+    "primary_url": "https://link.springer.com/article/10.1007/s11676-023-01677-4",
+    "metadata_url": "https://api.crossref.org/works/10.1007/s11676-023-01677-4",
+    "abstract_index": "https://openalex.org/W4391187848",
+    "online_date": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          25
+        ]
+      ]
+    },
+    "printed_date": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "D02",
+    "group": "四、其他植物衰退与恢复研究",
+    "short_title": "疏伐促进退化柠条复壮及水分利用",
+    "title": "Thinning promoted the rejuvenation and highly efficient use of soil water for degraded Caragana korshinskii plantation in semiarid loessal regions",
+    "authors": [
+      "Guohui Wang",
+      "Zhixue Chen",
+      "Yuying Shen",
+      "Xianlong Yang"
+    ],
+    "year": 2023,
+    "journal": "Land Degradation & Development",
+    "volume": "34",
+    "issue": "4",
+    "pages": "992-1003",
+    "doi": "10.1002/ldr.4511",
+    "where": "黄土高原半干旱区；退化柠条人工林",
+    "question": "不同疏伐/修剪强度能否同时改善水分条件与生长？",
+    "metrics": "0–600 cm储水、茎长/基径/生物量、单株与林分蒸腾、水分利用效率。",
+    "method": "2年观测；50%与67%疏伐、3种修剪强度及未处理对照。",
+    "result": "2020年T50、T67储水较对照高14.1%、17.0%；T67单株蒸腾增加而林分蒸腾明显下降，并提高生长及水分利用效率。",
+    "limit": "比单次结构调查多了处理对照证据；结论限于柠条、试验地与2年时段。卷期年2023，在线发表于2022年。",
+    "read_level": "数据库摘要",
+    "primary_url": "https://onlinelibrary.wiley.com/doi/10.1002/ldr.4511",
+    "metadata_url": "https://api.crossref.org/works/10.1002/ldr.4511",
+    "abstract_index": "https://openalex.org/W4307126082",
+    "online_date": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          11
+        ]
+      ]
+    },
+    "printed_date": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "id": "D03",
+    "group": "四、其他植物衰退与恢复研究",
+    "short_title": "沙丘固定后沙拐枣为何难以自然更新",
+    "title": "Factors influencing the natural regeneration of the pioneering shrub Calligonum mongolicum in sand dune stabilization plantations in arid deserts of northwest China",
+    "authors": [
+      "Baoli Fan",
+      "Allen David McHugh",
+      "Shujiang Guo",
+      "Quanlin Ma",
+      "Jianhui Zhang",
+      "Xiaojuan Zhang",
+      "Weixing Zhang",
+      "Juan Du",
+      "Qiushi Yu",
+      "Changming Zhao"
+    ],
+    "year": 2018,
+    "journal": "Ecology and Evolution",
+    "volume": "8",
+    "issue": "5",
+    "pages": "2975-2984",
+    "doi": "10.1002/ece3.3913",
+    "where": "中国西北固沙人工植被；流动与固定沙丘中的沙拐枣",
+    "question": "更新失败源于种子缺乏，还是土壤物理环境改变？",
+    "metrics": "种子库、萌发/出苗、克隆枝、幼苗密度、质地、孔隙度与表层紧实度。",
+    "method": "沙丘类型调查，结合野外控制与盆栽埋深/土壤试验。",
+    "result": "固定沙丘的出苗、幼株和克隆繁殖受限，而种子库差异不显著；土壤物理条件和幼苗建植比缺种更关键。",
+    "limit": "已追踪更新环节并加入控制试验；物种和演替背景不同，不能直接转写为梭梭更新机制。",
+    "read_level": "数据库摘要",
+    "primary_url": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.3913",
+    "metadata_url": "https://api.crossref.org/works/10.1002/ece3.3913",
+    "abstract_index": "https://openalex.org/W2791836545",
+    "online_date": {
+      "date-parts": [
+        [
+          2018,
+          2,
+          14
+        ]
+      ]
+    },
+    "printed_date": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "id": "D04",
+    "group": "四、其他植物衰退与恢复研究",
+    "short_title": "地中海松林衰退与根部微生物",
+    "title": "Mediterranean pine forest decline: A matter of root-associated microbiota and climate change",
+    "authors": [
+      "Ana V. Lasa",
+      "Antonio José Fernández-González",
+      "Pablo J. Villadas",
+      "Jesús Mercado-Blanco",
+      "Antonio J. Pérez-Luque",
+      "Manuel Fernández-López"
+    ],
+    "year": 2024,
+    "journal": "Science of The Total Environment",
+    "volume": "926",
+    "issue": "",
+    "pages": "171858",
+    "doi": "10.1016/j.scitotenv.2024.171858",
+    "where": "伊比利亚半岛东南部；有衰退症状与无症状欧洲赤松",
+    "question": "除干旱外，根际及根内微生物是否与衰退相关？",
+    "metrics": "细菌/真菌组成、植原体滴度、群落网络复杂度与模块化。",
+    "method": "有症状/无症状比较；宏条形码与微生物群落/网络分析。",
+    "result": "部分微生物组成随健康状态改变；相关植原体在两组均可检出，症状树滴度更高；衰退组根内网络较简单。",
+    "limit": "作者明确指出群落变化可能是原因也可能是结果；检出病原不等于已经证明病原致退化。",
+    "read_level": "数据库摘要",
+    "primary_url": "https://doi.org/10.1016/j.scitotenv.2024.171858",
+    "metadata_url": "https://api.crossref.org/works/10.1016/j.scitotenv.2024.171858",
+    "abstract_index": "https://openalex.org/W4393086586",
+    "online_date": null,
+    "printed_date": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "id": "D05",
+    "group": "四、其他植物衰退与恢复研究",
+    "short_title": "全球树木死亡的高温—干旱指纹",
+    "title": "Global field observations of tree die-off reveal hotter-drought fingerprint for Earth’s forests",
+    "authors": [
+      "William M. Hammond",
+      "A. Park Williams",
+      "John T. Abatzoglou",
+      "Henry D. Adams",
+      "Tamir Klein",
+      "Rosana López",
+      "Cuauhtémoc Sáenz-Romero",
+      "Henrik Hartmann",
+      "David D. Breshears",
+      "Craig D. Allen"
+    ],
+    "year": 2022,
+    "journal": "Nature Communications",
+    "volume": "13",
+    "issue": "1",
+    "pages": "1761",
+    "doi": "10.1038/s41467-022-29289-2",
+    "where": "全球森林；1970年以来已发表的气候相关死亡事件",
+    "question": "不同地区的死亡事件是否共享气候异常特征？",
+    "metrics": "地理定位死亡事件、温度与干旱异常及其未来发生频率。",
+    "method": "整合154篇同行评议研究，涉及675地点、1303样地，建立地面死亡事件数据库并匹配气候。",
+    "result": "死亡事件出现共同的更热、更干气候信号；预测变暖情景下，这类气候条件的发生频率非线性增加。",
+    "limit": "事件数据库受已发表样地分布影响；结果不直接给出河西走廊梭梭的死亡率、阈值或地块风险。",
+    "read_level": "数据库摘要",
+    "primary_url": "https://www.nature.com/articles/s41467-022-29289-2",
+    "metadata_url": "https://api.crossref.org/works/10.1038/s41467-022-29289-2",
+    "abstract_index": "https://openalex.org/W4224309885",
+    "online_date": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          5
+        ]
+      ]
+    },
+    "printed_date": null
+  }
+]

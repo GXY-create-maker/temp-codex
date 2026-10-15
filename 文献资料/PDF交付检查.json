@@ -1,0 +1,15 @@
+{
+  "pages": 8,
+  "academic_papers": 24,
+  "journal_papers": 23,
+  "conference_papers": 1,
+  "wechat_index_leads": 4,
+  "fulltext_core_read": 8,
+  "publisher_abstract_read": 4,
+  "registry_or_index_abstract_read": 12,
+  "links": 28,
+  "citation_checks": "passed",
+  "all_pages_rendered": "passed",
+  "visual_check": "passed after correcting font subset and orphan heading",
+  "download_copy_sha256": "386698538f73d3a0fe4907dba9b9fd7b15c223994b11a220816649d037857f98"
+}
